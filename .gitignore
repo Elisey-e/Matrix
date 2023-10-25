@@ -1,0 +1,6 @@
+build/
+bin/
+tmp/
+*.txt
+!CMakeLists.txt
+!tmp/release.sh
